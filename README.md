@@ -4,7 +4,7 @@ $ man r4sky0
 <b>R4SKY0(1)</b>               Developer Manual               <b>R4SKY0(1)</b>
 
 <b>NAME</b>
-     r4sky0 - builds developer tools, mostly for documentation
+     r4sky0 - builds developer tools
 
 <b>SYNOPSIS</b>
      r4sky0 [--python] [--java] [--typescript] [--on-aws]
@@ -22,14 +22,11 @@ $ man r4sky0
      <a href="https://github.com/r4sky0/sphinx-java-autodoc">sphinx-java-autodoc</a>
             Java API docs for Sphinx, from real compiler output.
 
-     <a href="https://github.com/r4sky0/apick">apick</a>
-            Browse and call OpenAPI endpoints from the terminal.
-
      <a href="https://github.com/r4sky0/nagios_check_paloalto">nagios_check_paloalto</a>
             Nagios and Icinga plugin for Palo Alto firewalls.
 
 <b>SEE ALSO</b>
-     <a href="https://r4sky0.github.io/sphinx-lumina-theme/">lumina-demo(7)</a>, <a href="https://r4sky0.github.io/sphinx-java-autodoc/">java-autodoc-docs(7)</a>, <a href="https://github.com/wp-cli/entity-command/pull/669">wp-cli(1)</a>
+     <a href="https://r4sky0.github.io/sphinx-lumina-theme/">lumina-demo(7)</a>, <a href="https://r4sky0.github.io/sphinx-java-autodoc/">java-autodoc-docs(7)</a>
 
 <b>BUGS</b>
      Keeps finding one more thing to fix in the docs.
